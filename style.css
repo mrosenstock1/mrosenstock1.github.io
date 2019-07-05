@@ -1,0 +1,38 @@
+body {
+  background-color: #e6f2ff;
+  color: black;
+  font-family: "Roboto", "Latos", sans-serif;
+  border: black;
+  border-style:dashed;
+  border-size: 200px;
+  border-width: thick;
+}
+
+h1{
+  color: black;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 50px;
+  font-style:normal;
+  border-top: white;
+  margin: 40px;
+}
+
+h2{
+  text-align: center;
+  font-size: 40px;
+  text-decoration: overline;
+  text-decoration: underline;
+  font-style: oblique;
+}
+
+
+  img {
+    width:200px;
+  }
+
+  .important{
+    color: blue;
+    font-style: italic;
+  }
